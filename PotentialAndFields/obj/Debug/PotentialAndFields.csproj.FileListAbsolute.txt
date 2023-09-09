@@ -1,0 +1,22 @@
+E:\Simulation\PotentialAndFields\PotentialAndFields\bin\Debug\PotentialAndFields.exe.config
+E:\Simulation\PotentialAndFields\PotentialAndFields\bin\Debug\PotentialAndFields.exe
+E:\Simulation\PotentialAndFields\PotentialAndFields\bin\Debug\PotentialAndFields.pdb
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.AssemblyReference.cache
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.SuggestedBindingRedirects.cache
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.Form1.resources
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.Properties.Resources.resources
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.GenerateResource.cache
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.CoreCompileInputs.cache
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.exe
+E:\Simulation\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.pdb
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\bin\Debug\PotentialAndFields.exe.config
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\bin\Debug\PotentialAndFields.exe
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\bin\Debug\PotentialAndFields.pdb
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.AssemblyReference.cache
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.SuggestedBindingRedirects.cache
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.Form1.resources
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.Properties.Resources.resources
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.GenerateResource.cache
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.csproj.CoreCompileInputs.cache
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.exe
+E:\Simulation\After mids 7\PotentialAndFields\PotentialAndFields\obj\Debug\PotentialAndFields.pdb
